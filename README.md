@@ -232,7 +232,7 @@ Here is a breakdown of what exactly happens here:
 - `netaddr (>=0.7.12)`
 - `netifaces (>=0.10.4)`
 
-What interests us is `pbr (>=0.6,!=0.7,<1.0)`.
+What interests us is `pbr (>=0.6,!=0.7,<1.0)` ?
 
 At this point, poetry will choose `pbr==0.11.1` which is the latest version that matches the constraint.
 
